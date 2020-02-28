@@ -1,0 +1,33 @@
+
+.split {
+  height: 50%;
+  width: 50%;
+  position: fixed;
+  top: 0;
+}
+.split2 {
+  height: 50%;
+  width: 50%;
+  position: absolute;
+  bottom: 0;
+}
+
+.lefttop {
+  left: 0;
+  background-color: red;
+}
+
+.righttop {
+  right: 0;
+  background-color: blue;
+}
+
+.leftbottom {
+  left: 0;
+  background-color: green;
+}
+
+.rightbottom {
+  right: 0;
+  background-color: yellow;
+}
